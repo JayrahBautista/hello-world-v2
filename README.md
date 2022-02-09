@@ -1,1 +1,1 @@
-ECHO is on.
+Palawan State University Demo
